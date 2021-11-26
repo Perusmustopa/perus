@@ -1,0 +1,35 @@
+.jumbotron img {
+    width: 300px;
+}
+
+.jumbotron {
+    background: rgb(172, 127, 4) ;
+
+}
+
+.bg-light img {
+    width: 300px;  
+}
+
+.bg-light h1 {
+    font-size: auto;
+}
+
+.about hr {
+    width: 120px;
+    border-top: 2px solid rgb(172, 127, 4);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    min-height: 550px;
+}
+
+section h4 {
+    font-size: small;
+    text-align: justify;
+    
+    
+
+}
